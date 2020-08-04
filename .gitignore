@@ -1,0 +1,9 @@
+db.sqlite3
+backend/__pycache__/*
+backend/credentials.json
+backend/migrations/__pycache__/*
+backend/googleOuath.py
+backend/foo.html
+ngrok-stable-windows-amd64/ngrok.exe
+project_m/__pycache__/*
+backend/history.json
